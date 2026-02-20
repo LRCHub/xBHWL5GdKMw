@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "魔女裁判",
+  "base_artist": "Len",
+  "createdAt": "2026-02-20T00:16:50.036625Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "魔女裁判",
+      "artist": "doriko",
+      "has_synced": false,
+      "path": "select/01_魔女裁判_doriko.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "魔女裁判",
+      "artist": "Len, 否",
+      "has_synced": false,
+      "path": "select/pl_01_魔女裁判_Len,_否.txt"
+    }
+  ]
+}
